@@ -4,9 +4,9 @@
 
 ### Reach out to me
 
-[<img height="32" width="32" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1643564306~hmac=04cd1b2cc0f1355863d2de651afbb18c" align="left" />](https://www.linkedin.com/in/mehmet-maytahan/)
+[<img height="32" width="32" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1644405776~hmac=2e446ab79aaf3a408f98f87b832aa07a" align="left" />](https://www.linkedin.com/in/mehmet-maytahan/)
 
-[<img height="32" width="32" src="https://cdn-icons.flaticon.com/png/512/3256/premium/3256013.png?token=exp=1643563877~hmac=781eb0fb7f3d3ca972a732b45348dd3f" align="left" />](https://twitter.com/MehmetMaytahan)
+[<img height="32" width="32" src="https://cdn-icons.flaticon.com/png/512/3256/premium/3256013.png?token=exp=1644405823~hmac=eb7dd34f86272df135f0f39e0cf878d0" align="left" />](https://twitter.com/MehmetMaytahan)
 
 <br>
 <br>
