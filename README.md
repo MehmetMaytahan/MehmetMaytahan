@@ -1,6 +1,8 @@
 ### Hi there 👋 I'm Mehmet :blush:
 
-## Front-end Developer | React Developer
+## Front-End Developer | Backend Developer | Jr. Full-Stack Developer
+
+<hr>
 
 ### Reach out to me
 
@@ -15,10 +17,14 @@
 
 ### Tech I use
 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" witdh="26" height="26" align="left">
 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="26" height="26" 
-align="left">
+<img src="https://github.com/MehmetMaytahan/MehmetMaytahan/blob/main/png/javascript.png" witdh="26" height="26" align="left">
+
+<img src="https://github.com/MehmetMaytahan/MehmetMaytahan/blob/main/png/nodejs.png" witdh="26" height="26" align="left">
+
+<img src="https://github.com/MehmetMaytahan/MehmetMaytahan/blob/main/png/react.png" width="26" height="26" align="left">
+
+<img src="https://github.com/MehmetMaytahan/MehmetMaytahan/blob/main/png/mongodb.png" width="26" height="26" align="left">
 
 <br>
 <br>
