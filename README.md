@@ -18,7 +18,7 @@
 ### Tech I use
 
 
-<img src="https://github.com/MehmetMaytahan/MehmetMaytahan/blob/main/png/javascript.png" witdh="26" height="26" align="left">
+<img src="https://github.com/MehmetMaytahan/MehmetMaytahan/blob/main/png/javascript.png" witdh="26" height="26" align="left" alt="Javascript">
 
 <img src="https://github.com/MehmetMaytahan/MehmetMaytahan/blob/main/png/nodejs.png" witdh="26" height="26" align="left">
 
