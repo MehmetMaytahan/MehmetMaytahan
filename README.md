@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Mehmet :blush:
 
-## Front-End Developer | Backend Developer | Jr. Full-Stack Developer
+## Jr. Front-End Developer | Jr. Backend Developer | Jr. Full-Stack Developer
 
 <hr>
 
